@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "strict": true,
+    "outFile": "./dist/subjects.js",
+    "rootDir": "./js",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["js/**/*.ts"]
+}
